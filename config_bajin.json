@@ -1,0 +1,19 @@
+{
+	"workspace_path": "/home/archie.xll/work/projects/text_analysis",
+	"topic_name": "bajin",
+	"raw_corpus": "/home/archie.xll/work/projects/text_analysis/data/bajin/yuanwen.txt",
+	"custom_dict": "",
+	"seg_corpus": "/home/archie.xll/work/projects/text_analysis/data/bajin/seg_yuanwen.txt",
+	"seg_corpus_pos": "/home/archie.xll/work/projects/text_analysis/data/bajin/seg_yuanwen_pos.txt",
+	"stop_word_dict": "/home/archie.xll/work/projects/text_analysis/resources/stop_words.txt",
+	"unigram_file": "/home/archie.xll/work/projects/text_analysis/output/bajin/unigram.txt",
+	"bigram_file": "/home/archie.xll/work/projects/text_analysis/output/bajin/bigram.txt",
+	"trigram_file": "/home/archie.xll/work/projects/text_analysis/output/bajin/trigram.txt",
+	"word_frq_file": "/home/archie.xll/work/projects/text_analysis/output/bajin/word_frq.txt",
+	"font_path": "/home/archie.xll/work/projects/text_analysis/resources/wryh.ttf",
+	"word_cloud_background": "",
+	"word_cloud_file": "/home/archie.xll/work/projects/text_analysis/output/bajin/wordcloud.jpg",
+	"word2vec_model": "/home/archie.xll/work/projects/text_analysis/models/bajin/word2vec.model",
+	"similar_word_input": "",
+	"similar_word_topn": 20
+}
